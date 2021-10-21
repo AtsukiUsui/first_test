@@ -1,0 +1,4 @@
+
+echo hoge
+echo hoge
+
